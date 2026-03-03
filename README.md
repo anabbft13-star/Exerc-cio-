@@ -12,4 +12,4 @@ print("Funcionário:", funcionario)
 
 print(f"Salário bruto: R$ {salario_bruto:,.2f}".replace(",", "X").replace(".", ",").replace("X", "."))
 print(f"Desconto INSS: R$ {desconto_inss:,.2f}".replace(",", "X").replace(".", ",").replace("X", "."))
-print(f"salario liquido: R$ {salario liquido:,.2f}".replace(",","x").replace(".",",").replace("x","."))
+print(f"Salário líquido: R$ {salario_liquido:,.2f}".replace(",", "X").replace(".", ",").replace("X", "."))
